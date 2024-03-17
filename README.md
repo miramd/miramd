@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @miramd
-- 🌱 I currently know c, C# and java.
 - 📫 How to reach me : miramadani33@gmail.com
 
 <!---
